@@ -81,13 +81,3 @@ Astropy
 Astropy Cutout2D utilities
 tkinter.ttk widgets
 
-
-
-
-
-
-
-
-
-
-<img width="468" height="642" alt="image" src="https://github.com/user-attachments/assets/2fb844be-4a97-4afd-a19d-01e003468471" />
